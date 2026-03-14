@@ -24,7 +24,7 @@ If you discover a security issue, please report it via one of the following meth
 
 | 方法 / Method | 連絡先 / Address |
 | ------------- | ---------------- |
-| メール / Email | [contact@daruks.com](mailto:contact@daruks.com) |
+| メール / Email | [coc@corp.daruks.com](mailto:coc@corp.daruks.com) |
 | お問い合わせフォーム / Contact Form | [https://corp.daruks.com/contact](https://corp.daruks.com/contact) |
 
 以下の情報をできる限り含めてください：
