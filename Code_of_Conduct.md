@@ -64,11 +64,11 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## 執行 / Enforcement
 
-虐待・ハラスメント・その他容認できない行動があった場合は、**[contact@daruks.com]** までご連絡ください。すべての苦情は審査・調査され、状況に応じた対応が取られます。メンテナーチームは、事案の報告者に関する守秘義務を負います。
+虐待・ハラスメント・その他容認できない行動があった場合は、**[coc@corp.daruks.com]** までご連絡ください。すべての苦情は審査・調査され、状況に応じた対応が取られます。メンテナーチームは、事案の報告者に関する守秘義務を負います。
 
 Ahoshinet Groupsのお問い合わせフォームでも受け付けています。https://corp.daruks.com/contact をご確認ください。
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[conact@daruks.com]**. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[coc@corp.daruks.com]**. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
 You can also contact us through the Ahoshinet Groups contact form at https://corp.daruks.com/contact.
 
